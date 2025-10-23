@@ -12,7 +12,7 @@ This repo is a compilation of my hands-on exercises, mini-projects, and experime
 This repository documents my learning journey with Pandas — from beginner-friendly exercises to advanced data wrangling tasks. It’s meant to help both learners and practitioners improve their data-handling skills and understand how to work effectively with tabular data in Python.
 💡 How to Use
 Clone the repository:
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone(https://github.com/vivekgith/Pandas-Library.git)
 Open any notebook in Jupyter or VS Code.
 Explore and experiment with the examples.
 🧰 Tools & Libraries
